@@ -1184,8 +1184,22 @@
   edition          = {1},
   isbn             = {0195380002,9780195380002},
   creationdate     = {2023-07-04T12:12:05},
-  modificationdate = {2023-07-04T12:12:06},
+  file             = {:/Users/arindambose/envhlth/envhlth_papers/Guidotti2011.pdf:PDF},
+  modificationdate = {2023-07-04T12:12:27},
   url              = {http://gen.lib.rus.ec/book/index.php?md5=718f9c88a0a60892f1a0c75d3548d7e2},
+}
+
+@Book{Frumkin2010,
+  author           = {Howard Frumkin},
+  publisher        = {Jossey-Bass},
+  title            = {Environmental Health: From Global to Local},
+  year             = {2010},
+  edition          = {2},
+  isbn             = {0470404876,9780470404874},
+  series           = {Public Health/Environmental Health},
+  creationdate     = {2023-07-04T12:20:53},
+  modificationdate = {2023-07-04T12:20:53},
+  url              = {http://gen.lib.rus.ec/book/index.php?md5=4e8245fccd698f9b402f12401b7fe9a2},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}
