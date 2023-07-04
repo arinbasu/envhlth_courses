@@ -1,0 +1,16 @@
+version: 1
+project:
+  title: Environmental Health
+  description: Environmental Health Papers and course notes
+  remote: ZF5rWOHvg1WHSi22GpEO
+  short_title: Env Health
+  authors:
+    - userId: Zj3hDdGqAzVb4r5HY1NCCQeJ0hk2
+      name: Arindam Basu
+      orcid: 0000-0003-2326-2292
+      corresponding: false
+      roles: []
+      affiliations: []
+  keywords: []
+  name: environmental-health
+  license: {}

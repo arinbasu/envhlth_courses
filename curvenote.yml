@@ -1,0 +1,12 @@
+version: 1
+site:
+  title: Environmental Health
+  projects:
+    - slug: environmental-health
+      path: content/environmental-health
+  nav: []
+  actions:
+    - title: Learn More
+      url: https://curvenote.com/docs/web
+  domains:
+    - arinbasu.curve.space
